@@ -1,0 +1,6 @@
+{
+  "name": "Build Diary",
+  "description": "Your personal project OS to track multiple projects from idea to shipped with notes, tasks, drawings, and user flows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
